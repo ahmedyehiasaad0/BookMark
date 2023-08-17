@@ -1,0 +1,26 @@
+
+
+
+
+
+.line{
+    width: 85%;
+    margin: auto;
+    height: 1px;
+    background-color: black;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.item{
+    background-color: #EEE;;
+    padding: 50px;
+}
+h3{
+    margin-left: 100px;
+}
+.table{
+     
+    border: 0px;
+    padding: 10px;
+}
